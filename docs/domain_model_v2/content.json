@@ -1,7 +1,7 @@
 {
     // General
     "name": "", // Name of the content
-    "identifier": "", // System identifier for this content
+    "identifier": "", // System identifier for the content
     "code": "", // Unique code for the content
     "description": "", // Description
     "keywords": "", // Keywords
